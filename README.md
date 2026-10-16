@@ -60,7 +60,7 @@ PatternPrograms/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone (https://github.com/CodeHub-ui/12-Common-Pattern-Programs-in-Java/)
 ```
 
 Replace `https://github.com/CodeHub-ui/12-Common-Pattern-Programs-in-Java/)` with your actual GitHub repository URL.
