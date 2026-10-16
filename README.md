@@ -152,9 +152,9 @@ This project is available for educational and learning purposes. You may modify 
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Harshit Gupta**
 
-GitHub: [Your GitHub Profile](https://github.com/)
+## LinkedIn : https://www.linkedin.com/in/harshitgupta81
 
 ---
 
