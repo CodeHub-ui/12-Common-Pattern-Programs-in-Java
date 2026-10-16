@@ -32,7 +32,7 @@ It is designed for beginners who want to improve their Java programming skills a
 11. 0-1 Triangle Pattern
 12. Butterfly Pattern
 
-## 🛠️ Technologies Used hallknfjebfjh
+## 🛠️ Technologies Used  
 
 - **Programming Language:** Java
 - **Concepts:** Nested Loops, Conditional Statements, Methods, Switch Statements, User Input
