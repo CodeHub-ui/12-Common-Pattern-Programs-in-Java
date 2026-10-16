@@ -63,7 +63,7 @@ PatternPrograms/
 git clone YOUR_REPOSITORY_URL
 ```
 
-Replace `YOUR_REPOSITORY_URL` with your actual GitHub repository URL.
+Replace `https://github.com/CodeHub-ui/12-Common-Pattern-Programs-in-Java/)` with your actual GitHub repository URL.
 
 ### Step 2: Open the Project Folder
 
